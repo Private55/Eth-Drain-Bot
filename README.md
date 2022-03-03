@@ -3,6 +3,10 @@ This is a bot that will listen for transactions over a set amount of ETH (you ca
 
 Download zip and extract. Only file you have to run in terminal is bot.js after you set the below parameters. 
 
+Make sure you download all the packages using pip install. 
+
+This needs "pip install ethers"
+
 This is the same bot that is being sold by @dummydu and on youtube @techaddict https://www.youtube.com/watch?v=5AkLogdCNMQ
 
 You MUST know the privatekey of the wallet you want to drain. 
