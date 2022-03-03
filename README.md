@@ -1,5 +1,7 @@
 # Eth-Drain-Bot
-This is a bot that will listen for transactions over a set amount and auto transfer them to set wallet address. 
+This is a bot that will listen for transactions over a set amount of ETH (you can set in the code) and auto transfer them to set wallet address.
+
+Download zip and extract. Only file you have to run in terminal is bot.js after you set the below parameters. 
 
 This is the same bot that is being sold by @dummydu and on youtube @techaddict https://www.youtube.com/watch?v=5AkLogdCNMQ
 
